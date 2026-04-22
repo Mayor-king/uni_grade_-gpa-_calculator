@@ -432,10 +432,6 @@
   justify-items: start;
 }
 
-.cv-panel p {
-  margin: 0;
-}
-
 .site-footer {
   margin-top: 28px;
   display: grid;

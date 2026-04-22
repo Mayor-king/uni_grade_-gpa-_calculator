@@ -184,7 +184,3 @@ High-level intent:
 - Multi-scale support for institutions outside the 5.0 system
 - Optional cloud sync
 - Shareable read-only reports
-
-## CV Description
-
-> Developed Uni Grade & GPA Tracker, an academic tool to help university students calculate and monitor GPA progress over multiple semesters. Created an intuitive React frontend for seamless user input and data visualization.

@@ -313,16 +313,6 @@ function App() {
           />
 
           <GradeReference />
-
-          <section className="panel cv-panel">
-            <h2>CV Description</h2>
-            <p>
-              Developed Uni Grade &amp; GPA Tracker, an academic tool to help
-              university students calculate and monitor GPA progress over
-              multiple semesters. Created an intuitive React frontend for
-              seamless user input and data visualization.
-            </p>
-          </section>
         </aside>
       </main>
 
